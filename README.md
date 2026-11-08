@@ -1,2 +1,5 @@
-# klencod-flutter-qashan_fund_flutter
-Project created by KLENCOD IDE
+# صندوق وتكافل أبناء قعشان (Flutter)
+1. ارفع محتويات هذا المجلد إلى مستودع GitHub (الجذر).
+2. من تبويب Actions شغّل "Build APK" (أو يعمل تلقائياً عند الرفع).
+3. حمّل ملف app-release.apk من Artifacts وثبّته.
+البيانات المستعادة مضمّنة في assets/seed.json وتُحمَّل عند أول تشغيل.
